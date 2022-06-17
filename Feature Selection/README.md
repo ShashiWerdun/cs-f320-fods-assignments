@@ -12,3 +12,6 @@ Here we consider generating all the possible subsets and determine the subset wi
 - **Greedy Backward Selection**: We can initially consider all the features as reliable and keep on deleting the feature that is currently the least reliable.<br><br>
 **<u>Note</u>**: In both approaches, we used gradient descent with no
 regularization for estimating the linear regression models in each iteration.
+
+## Results
+Check out this [doc](./Results/Report.pdf) for the training and testing errors with best feature set generated.
