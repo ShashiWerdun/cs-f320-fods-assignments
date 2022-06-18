@@ -9,4 +9,4 @@ This assignnemt is done under Dr. N.L.Bhanu Murthy for the course "Foundations o
 ## Team details
 1. [Chaitanya Chakka](https://github.com/ChiatanyaChakka)
 2. [Shashivardhan Vadyala](https://github.com/ShashiWerdun)
-3. Bala Tharun Reddy
+3. [Tharun Reddy](https://github.com/Tharun1718333)
